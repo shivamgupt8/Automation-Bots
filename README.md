@@ -89,3 +89,4 @@
 Before running the programs make sure you have installed the libraries or modules.
 
 2. For contributions check [here](CONTRIBUTING.md)
+Some new info to be added soon.
